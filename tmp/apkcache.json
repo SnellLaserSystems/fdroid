@@ -1,0 +1,177 @@
+{
+  "METADATA_VERSION": 20001,
+  "allow_disabled_algorithms": false,
+  "ProtonDrive-Android.apk": {
+    "hash": "d58698f1aa616b40a1a142f498b9be26381a3a2bd231f758423bbc4855eb0d14",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_IMAGES",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_VIDEO",
+        null
+      ],
+      [
+        "android.permission.ACCESS_MEDIA_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.USE_BIOMETRIC",
+        null
+      ],
+      [
+        "android.permission.USE_FINGERPRINT",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "me.proton.android.drive.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ],
+      [
+        "com.android.vending.BILLING",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "me.proton.android.drive",
+    "versionCode": 65,
+    "name": "Proton Drive",
+    "versionName": "2.4.1",
+    "minSdkVersion": 23,
+    "targetSdkVersion": 33,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "156bc7d5cb9089376a7b7e6b1d4fa758",
+    "signer": "dcc9439ec1a6c6a8d0203f3423ee42bcc8b970628e53cb73a0393f398dd5b853",
+    "size": 77434844,
+    "apkName": "ProtonDrive-Android.apk",
+    "added": 1722995859.636576
+  },
+  "obtanium.apk": {
+    "hash": "5baa842e931bbae75b50868c128fe6195f04eab88b1af4f9ad815bad024fc8c4",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.SCHEDULE_EXACT_ALARM",
+        33
+      ],
+      [
+        "android.permission.REQUEST_DELETE_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        29
+      ],
+      [
+        "android.permission.QUERY_ALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        32
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "dev.imranr.obtainium.fdroid.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ],
+      [
+        "moe.shizuku.manager.permission.API_V23",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "dev.imranr.obtainium.fdroid",
+    "versionCode": 22763,
+    "name": "Obtainium",
+    "versionName": "1.1.19",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "d2c3b059cf8a7d94e634893ba8f6d158",
+    "signer": "b353601f6a1d5fd6603ae2f50be80cf301367b86b6ab8b1f66243da96cd57362",
+    "size": 23389026,
+    "apkName": "obtanium.apk",
+    "added": 1722995860.05205
+  }
+}
